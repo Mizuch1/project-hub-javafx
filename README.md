@@ -9,7 +9,7 @@ Une application de gestion de projets complète avec interface graphique JavaFX,
 ## 📚 Historique du Projet
 
 ### 🎓 Origine Académique
-Ce projet a débuté comme un projet beta académique durant ma 3ème année d'études en génie logiciel. La version initiale était une application basique conçue pour répondre aux exigences du cours de programmation orientée objet en Java.
+Ce projet a débuté comme un projet beta académique durant ma 3ème année d'études. La version initiale était une application basique conçue pour répondre aux exigences du cours de programmation orientée objet en Java.
 
 ### 🚀 Évolution et Améliorations
 Après la validation académique, j'ai entrepris une refonte complète de l'application pour en faire une solution professionnelle et robuste. Les améliorations majeures incluent :
