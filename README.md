@@ -122,11 +122,10 @@ L'application créera automatiquement la base de données H2 lors du premier dé
 
 ---
 
-## 📸 Captures d'Écran
-
-**À venir !**
-
----
+## 📸 Preview
+<p align="center">
+  <img src="https://turquoise-demetris-15.tiiny.site/project_manager_preview.svg" alt="FlousBank Preview" width="400">
+</p>
 
 ## 🤝 Contribution
 
