@@ -129,7 +129,7 @@ L'application créera automatiquement la base de données H2 lors du premier dé
 
 ## 🤝 Contribution
 
-Les contributions, problèmes et demandes de fonctionnalités sont les bienvenus ! N'hésitez pas à consulter la [page des issues](https://github.com/Mizuch1/project-manager/issues).
+Les contributions, problèmes et demandes de fonctionnalités sont les bienvenus ! N'hésitez pas à consulter la [page des issues](https://github.com/Mizuch1/project-hub-javafx/issues).
 
 ### Comment contribuer :
 1. Forkez le dépôt
