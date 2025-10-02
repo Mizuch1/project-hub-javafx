@@ -204,4 +204,4 @@ public class Main {
 
 ## 👤 Auteur
 
-_Made with ☕ and 💻 by Mizuchi_
+_Réalisé avec ☕ et 💻 par Mizuchi_
