@@ -165,13 +165,6 @@ Pour des diagrammes d'architecture et une documentation de conception détaillé
 
 ---
 
-## 🙏 Remerciements
-
-*   Construit avec ❤️ en utilisant JavaFX et H2 Database
-*   Merci à la communauté open-source pour les outils et bibliothèques incroyables
-
----
-
 ```java
 // copyright_info.java
 
